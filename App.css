@@ -1,0 +1,42 @@
+body {
+  background: url('https://i.pinimg.com/236x/9d/70/69/9d70691b3e18c26ff7cce0da78d79460.jpg'); 
+  background-size: cover;
+  max-height: 100vh; 
+  /* display: grid;
+  place-items: center; */
+  display: flex;
+  justify-content: center;
+}
+  
+h1 {
+  font-family: 'Gloria Hallelujah', cursive;
+}
+  
+input {
+  display: block;
+  width: 100%;
+  border: none;
+  color: white;
+  font-size: 20px;
+  background: #606C5D;
+  padding: 20px;
+  font-family: 'Gloria Hallelujah', cursive;
+  margin-bottom: 20px;
+}
+  
+button {
+  padding: 20px 50px 20px 70px;
+  background-color: #F7E6C4;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+}
+  
+p {
+  max-width: 100%;
+  background: beige;
+  margin-top: 20px;
+  font-family: 'Gloria Hallelujah', cursive;
+  width: 600px;
+  font-size: 20px;
+}  
